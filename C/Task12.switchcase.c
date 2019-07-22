@@ -33,7 +33,7 @@ int main()
 			exit(0);
 			break;
 		}
-		default:printf("choice 1 2 or 3");
+		default:printf("Invalid choice\n");
 			break;
 
 		}
