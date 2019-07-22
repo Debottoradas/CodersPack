@@ -6,7 +6,7 @@ int main()
 	printf("------TEMPERATURE CONVERSION------\n");
 	while(1)
 	{
-		printf("enter your choice\n");
+		printf("Enter your choice: 1) Celsius to Fahrenheit 2) Fahrenheit to Celsius 3) Exit\n");
 	scanf("%d", &n);
 		switch (n)
 		{
